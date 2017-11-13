@@ -1,0 +1,3 @@
+make
+time ./sense -train 4770abs.txt -output yi-sense-cbow.txt -cbow 0 -size 100 -negative 30 -hs 1 -sample 1e-4 -threads 20 -binary 0 -iter 15 -levelfile wordlevel.txt -newlabel 0.5 -samelevelfile samelevel.txt -samecom 0 -lowlevelfile lowlevel.txt -lowcom 0.2
+

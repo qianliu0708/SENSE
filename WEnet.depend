@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1486707409 source:/home/qliu2/WorkSpace/WordNet/ Codeblock/Qian/WEnet/word2vec.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<pthread.h>
+	"dirent.h"
+
+1483706559 /home/qliu2/WorkSpace/WordNet/ Codeblock/Qian/WEnet/dirent.h
+	<features.h>
+	<bits/types.h>
+	<bits/dirent.h>
+	<bits/types.h>
+	<bits/posix1_lim.h>
+	<stddef.h>
+
+1488260345 source:/home/qliu2/workspace/wordnet/Codeblock/WEnet/word2vec.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<pthread.h>
+	"dirent.h"
+
+1483706559 /home/qliu2/workspace/wordnet/Codeblock/WEnet/dirent.h
+	<features.h>
+	<bits/types.h>
+	<bits/dirent.h>
+	<bits/types.h>
+	<bits/posix1_lim.h>
+	<stddef.h>
+
