@@ -10,9 +10,16 @@ time ./sense -train corpus.txt -output outtest.txt -cbow 1  -size 300 -negative 
 
 Here,
 -train is the training corpus
+
 -output is the output word embedding file
+
 -lowlevelfile is the file for concept convergene from KBs, For instance, one line in the file: trainer animal_trainer coach 
+
 -lowcom is the paremeter alpha in the paper. It controls the influence of concept convergence.
+
 -samelevelfile is the file for word divergence generated from KBs. For instance, one line in the file: coach baseball_coach basketball_coach conditioner football_coach hockey_coach tennis_coach
+
 -samecom is the parameter beta in the paper. It controls the influence of word divergence.
+
 The learnt word embedding will be written to outtest.txt, specified by -output.
+
