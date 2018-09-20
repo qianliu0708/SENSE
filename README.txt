@@ -1,4 +1,6 @@
-This software implements the semantic structure-base word embedding method proposed in the AAAI-2018 submission titled "Semantic Structure-based Word Embedding by Incorporating Concept Convergence and Word Divergence".
+SENSE
+-------------------------------------------------
+This code implements the "semantic structure-base word embedding" (SENSE) method proposed in the AAAI-2018 submission titled "Semantic Structure-based Word Embedding by Incorporating Concept Convergence and Word Divergence".
 ------------------------------------------------------
 Installation
 type make
